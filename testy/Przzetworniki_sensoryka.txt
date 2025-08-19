@@ -1,0 +1,14 @@
+1. Objaśnij, na czym polega przetwarzanie taktylno-stykowe.
+2. W jakich zastosowaniach odbicia styków wyłączników krańcowych mogą prowadzić do błędnych odczytów?
+3. Omów zasadę przetwarzania rezystancyjnego.
+4. Podaj sposoby zmiany rezystancji.
+5. Omów zasadę przetwarzania indukcyjnego.
+6. Podaj sposoby zmiany indukcyjności.
+7. Omów zasadę przetwarzania pojemnościowego.
+8. Podaj sposoby zmiany pojemności.
+9. Omów sposób pomiaru odległości oparty na wykorzystywaniu ultradźwięków.
+10. Czy ultradźwiękami można,,wykryć" każdy material?
+11. Jakie główne zespoły zawiera łącze optyczne?
+12. Co oznaczają określenia: łącze jednodrogowe i dwudrogowe?
+13. Kiedy występuje odbicie całkowite światła i w jakich urządzeniach jest ono wykorzystywane? 14. Na czym polega przetwarzanie piezoelektryczne?
+15. Wymień inne sposoby przetwarzania.

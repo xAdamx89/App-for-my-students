@@ -1,0 +1,19 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Strona-1" id="jgnhKM59ls9hkWLqiN4Q">
+    <mxGraphModel dx="1426" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Po7ofT87eP9KNeOSyWzm-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Po7ofT87eP9KNeOSyWzm-2" value="Folder testy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po7ofT87eP9KNeOSyWzm-3" value="nazwa1.txt&lt;div&gt;nazwa2.txt&lt;/div&gt;&lt;div&gt;nazwa3.txt&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="263" width="80" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
