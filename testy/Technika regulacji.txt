@@ -1,0 +1,11 @@
+1. Wyjaśnij, jak określa się właściwości członów układów regulacji.
+2. Wyjaśnij, jakie zadania ma do spełnienia człon proporcjonalny w układzie regulacji.
+3. Jakim symbolem oznacza się człon proporcjonalny?
+4. Oblicz wzmocnienie członu proporcjonalnego w postaci sensora położenia generującego prąd wyjściowy zac Iwy1 = 0 mA dla odsunięcia od obiektu Xwe1 = 0 mm. Ten sam sensor generuje prąd wy2 = 20 mA dla odsunięcia Xwe2 = 8 mm. Charakterystyka przetwarzania sensora jest liniowa.
+5. Oblicz wzmocnienie członu proporcjonalnego w postaci przekładni zębatej z kołem wejściowym o liczbie zębów równej 150 i kołem wyjściowym o liczbie zębów równej 50.
+6. Co przedstawiają charakterystyki amplitudowe i fazowe? 
+7. Jakimi właściwościami charakteryzuje się człon inercyjny? 
+8. Jak zachowuje się człon całkujący?
+10. Jak zachowuje się sygnał wyjściowy członu różniczkującego w stosunku do sygnału (wymuszenia) wejściowego? 
+11. Jakimi wlaściwościami charakteryzuje się człon opóźniający?
+9. Oblicz współczynnik wzmocnienia całkowego zbiornika o przekroju 1 m2, napełnianego cieczą przez zawór rozł o przepływie 5 dm3/s.

@@ -20,6 +20,7 @@ void greetingScreean()
     printf("4 - Sensoryka robotów - 4 pytania\n");
     printf("5 - Maszyny manipulacyjne - 4 pytania\n");
     printf("6 - Bezpieczenstwo pracy z manipulatorami - 4 pytania\n");
+    printf("7 - Projektowanie i realizacja elektrycznych układów sterowania w robotyce - 4 pytania\n");
 }
 
 void exitApp()
@@ -67,6 +68,18 @@ void choose(int a)
             char file[] = "testy/Bezpieczenstwo pracy z manipulatorami.txt\0";
             char *fptr = file;
             openAndReadFile(fptr, 4, 7);
+        }break;
+        case 7:
+        {
+            char file[] = "testy/Projektowanie i realizacja elektrycznych układów sterowania w robotyce.txt\0";
+            char *fptr = file;
+            openAndReadFile(fptr, 4, 25);
+        }break;
+        case 8:
+        {
+            char file[] = "testy/Technika regulacji.txt\0";
+            char *fptr = file;
+            openAndReadFile(fptr, 4, 11);
         }break;
     }
 }

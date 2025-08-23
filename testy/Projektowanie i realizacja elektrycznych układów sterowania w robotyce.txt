@@ -1,0 +1,25 @@
+1. Jaka różnica występuje pomiędzy stykami w przekaźniku i styczniku? 
+2. Co oznacza pojęcie napięcie cewki w przekaźniku"?
+3. Opisz działanie przekaźnika a) monostabilnego oraz b) bistabilnego.
+4. W jaki sposób jest poruszany styk w kontaktronie?
+5. Jak jest realizowana izolacja galwaniczna w przekaźnikach półprzewodnikowych?
+6. Co oznacza opis AC-1 na tabliczce znamionowej stycznika?
+7. Za pomocą jakich elementów elektrycznych można sygnały: wzmocnić, zwielokrotnić, odwrócić (zanegować)?
+8. Przedstaw (dwa) rodzaje schematów elektrycznych?
+9. Jak są połączone zestyki w układach realizujących funkcję logiczną alternatywy i koniunkcji?
+10. Podaj jaki rodzaj zestyku realizuje funkcję negacji?
+11. Co oznacza pojęcie ryglowania?
+12. Jak jest realizowane ryglowanie mechaniczne?
+13. Jak można zapamiętać stany wysterowania?
+14. Jak można uzależnić przełączanie od określonych warunków?
+15. Przedstaw działanie łącznika przyciskowego wyłączającego umieszczonego w gałęzi podtrzymującej, a jakie, gdy znajduje się on przed tą gałęzią?
+16. Jakie zadania pełnią zestyki blokujące w układach stycznikowych?
+17. Dlaczego dostawcy energii wymagają stosowania metody rozruchu ze zmniejszeniem prądu rozruchowego, np. metody gwiazda-trójkąt?
+18. Określ stosunek prędkości w układzie Dahlandera?
+19. Jak oznaczone są zaciski silnika w układzie Dahlandera: a) dla malej i b) dla dużej prędkości?
+20. Narysuj symbole WŁĄCZENIA, WYŁĄCZENIA i rozgałęzienia sygnałów na diagramie stanów. Na jakie części podzielony jest diagram stanów?
+21. Podaj kolejność postępowania przy tworzeniu układu sterowania w oparciu o diagram stanów?
+22. Jaka jest budowa schematów działania?
+23. Co znaczy pojęcie warunki przejścia"?
+24. Opisz kolejność postępowania przy tworzeniu układu sterowania sekwencyjnego.
+25. Jakim układem zawierającym przekaźnik można zapamiętać przebieg kroku?
