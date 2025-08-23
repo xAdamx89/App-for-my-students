@@ -1,0 +1,9 @@
+1. Jaka powstanie wieloznaczność w robocie sześcioosiowym, jeżeli wprowadzi się siódmą oś współbieżną? 
+2. Dla robota z pytania 1 podaj współrzędne globalne oraz współrzędne maszynowe. Podaj także prawidłowe jed- nostki fizyczne.
+3. Naszkicuj wieloznaczne rozwiązanie robota sześcioosiowego z obrotowymi członami - osiami ruchu.
+4. Naszkicuj przebieg prędkości w osiach X i Y dwuwymiarowego sterowania ruchem po okręgu.
+5. Opisz różnice między transformacją prostą i transformacją odwrotną układu współrzędnych. 
+6. Na czym polega osobliwość alfa 5/0°?
+7. Wyjaśnij, dlaczego korzystne jest realizowanie,,poślizgu" podczas normalnej pracy robota.
+8. Podaj przykład zastosowania urządzeń sensorycznych do autonomicznej realizacji toru ruchu.
+9. Opisz przykład wykorzystania urządzeń sensorycznych do podwyższenia bezpieczeństwa pracy na stanowisku zrobotyzowanym.

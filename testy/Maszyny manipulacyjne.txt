@@ -1,0 +1,20 @@
+1. Wymień podstawowe funkcje maszyn manipula- cyjnych.
+2. Jakie urządzenia do kontrolowania stosowane są w maszynach manipulacyjnych?
+3. Podaj przykłady urządzeń do porcjowania.
+4. Wymień ręcznie sterowane urządzenia manipula- cyjne.
+5. Określ podstawową różnicę między serwooperatorem a manipulatorem. 
+6. Podaj przykład pamięci mechanicznej stosowanej w manipulatorach. 
+7. W jaki sposób serwooperatory mogą chwytać obiekty manipulacji?
+8. Podaj przykład teleoperatora wysłanego na Księżyc.
+9. W jakim celu wyposaża się teleoperatory w system wizyjny?
+10. Jaka jest różnica między serwooperatorem a teleoperatorem?
+11. Wymień podstawowe różnice między manipulatorem a robotem przemysłowym. 
+12. Korzystając z definicji robota, zaproponuj jego najprostszą strukturę modułową. 
+13. Wymień podstawowe zadania realizowane przez procesor sterownika robota. 
+14. Jakie informacje przesyłane są z elementów ruchowych robota do sterownika? 
+15. Wymień parametry kinematyczne robota przemysłowego.
+16. Co oznacza,,obciążenie nominalne" i,,obciążenie maksymalne" robota przemysłowego? Podaj przykład licz- bowy.
+17. W jakich przypadkach używany jest przez operatora programator ręczny?
+18. Jakie elementy wyposażenia ręcznego programatora służą zapewnieniu bezpieczeństwa pracy operatora? 
+19. Podaj przykłady wejść cyfrowych sterownika robota przemysłowego.
+20. Jakie zadania realizuje interpolator w sterowniku robota przemysłowego?

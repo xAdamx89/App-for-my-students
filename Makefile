@@ -1,9 +1,9 @@
-main: main.o
-	gcc main.o -o main
-main.o: main.c
-	gcc -c main.c -o main.o
-main.c:
+main.c: func.c
 	echo "Znaleziono main.c"
+	gcc -Wall main.c func.c -o App_for_tests
 clear:
-	rm main main.o
+	rm App_for_tests
+
+#gcc -Wall - dobra praktyka
+
 	

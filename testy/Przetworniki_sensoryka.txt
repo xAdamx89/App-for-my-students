@@ -10,5 +10,6 @@
 10. Czy ultradźwiękami można,,wykryć" każdy material?
 11. Jakie główne zespoły zawiera łącze optyczne?
 12. Co oznaczają określenia: łącze jednodrogowe i dwudrogowe?
-13. Kiedy występuje odbicie całkowite światła i w jakich urządzeniach jest ono wykorzystywane? 14. Na czym polega przetwarzanie piezoelektryczne?
+13. Kiedy występuje odbicie całkowite światła i w jakich urządzeniach jest ono wykorzystywane?
+14. Na czym polega przetwarzanie piezoelektryczne?
 15. Wymień inne sposoby przetwarzania.

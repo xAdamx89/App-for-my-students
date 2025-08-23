@@ -1,0 +1,7 @@
+1. Z czego wynikają zagrożenia dla człowieka na stanowiskach zrobotyzowanych?
+2. W jaki sposób ograniczany jest dostęp do strefy roboczej robota?
+3. W jakie elementy, zapewniające bezpieczeństwo operatora, powinien być wyposażony przenośny panel progra- matora?
+4. Naszkicuj schemat stanowiska zrobotyzowanego z przykładowymi urządzeniami ochronnymi.
+5. Opisz wybraną metodę sygnalizacji zbliżenia się człowieka do strefy niebezpiecznej na stanowisku zrobotyzo- wanym.
+6. Opisz przykład wykorzystania skanera laserowego do zapewnienia bezpieczeństwa pracy na stanowisku zro- botyzowanym.
+7. Jakie układy bezpieczeństwa pracy stosowane są przy zrobotyzowanym spawaniu?

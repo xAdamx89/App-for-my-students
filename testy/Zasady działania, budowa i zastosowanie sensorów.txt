@@ -1,0 +1,43 @@
+1. Przedstaw różnicę między sensorami biernymi i czynnymi?
+2. Jakimi właściwościami, oprócz realizowanego przetwarzania, powinien charakteryzować się sensor? 
+3. Omów poznane sensory położenia.
+4. Omów zasadę działania sensorów potencjometrycznych.
+5. Na podstawie schematu omów zasadę działania sensora magnetorezystancyjnego.
+6. Jak można sensor analogowy przebudować na binarny?
+7. Omów sposób zmiany indukcyjności (lub pojemności) w sensorach.
+8. Wymień główne czynniki wpływające na odległość działania sensora położenia.
+9. Czy sposób zabudowy sensora ma wpływ na jego pracę?
+10. Czy histereza przełączenia zależy od odległości przedmiotu od czoła sensora?
+11. Wymień przykłady zastosowań binarnych sensorów położenia.
+12. Czy sensor binarny może być stosowany do pomiaru prędkości obrotowej?
+13. Omów zasadę pracy łącza optycznego.
+14. Co rozumiemy pod pojęciem rezerwy zadziałania"?
+15. Dlaczego optyczne łącza jednodrogowe mają większą odległość działania?
+16. Jakich zespołów używa się w łączach optycznych?
+17. Kiedy stosujemy filtry polaryzujące?
+18. Jakie czynniki mogą zakłócić pracę łącz optycznych?
+19. Jakie znasz sposoby ochrony łącz optycznych przed zewnętrznymi zakłóceniami?
+20. Jaka jest główna właściwość diody PSD?
+21. Wymień zalety i wady światłowodów.
+22. Jakie są zalety łącz ultradźwiękowych?
+23. Jak minimalizuje się wzajemne oddziaływanie na siebie sąsiednich sensorów? 
+24. Wyjaśnij różnice między inkrementalnym i bezwzględnym pomiarem.
+25. Wymień główne zespoły inkrementalnego sensora położenia liniowego.
+26. Wymień główne zespoły bezwzględnego sensora położenia kątowego.
+27. Dlaczego stosuje się kod Graya?
+28. Wymień i objaśnij sposoby wyznaczania kierunku obrotu tarczy kodowej.
+29. Jakie znasz sposoby pomiaru prędkości liniowej (obrotowej)?
+30. Na czym polega ultradźwiękowy pomiar prędkości przepływu?
+31. Jaką właściwość zjawiska Dopplera wykorzystuje się przy radarowym pomiarze prędkości? 
+32. Jakie znasz zasady działania sensorów przyspieszenia?
+33. Jak wykorzystuje się tensometry przy pomiarach sily?
+34. Dlaczego przy pomiarach tensometrycznych stosuje się układy mostkowe?
+35. Jakie zalety ma mostek,,pełny", a jakie ćwierćmostek" sensora tensometrycznego? 
+36. Co wpływa na wartość ciepła danej substancji?
+37. Czym różnią się poznane skale temperaturowe? 
+38. Od czego zależy siła termoelektryczna termopary?
+39. Kiedy należy stosować termoelementy płaszczowe?
+40. Jaki jest dopuszczalny poziom tętnień napięcia zasilania układów sensorowych? 
+41. Jakie znasz sposoby dołączania obciążenia do sensora?
+42. Kiedy obwód prądowy uważa się za bezpieczny w otoczeniu wybuchowych gazów? 
+43. Jak wpływają wszelkie zabezpieczenia sensorów na szybkość ich działania?

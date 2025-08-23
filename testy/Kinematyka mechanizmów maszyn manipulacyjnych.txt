@@ -1,0 +1,9 @@
+1. Wyjaśnij różne rodzaje osi ruchu robotów przemysłowych.
+2. Objaśnij pojęcia: stopień swobody w przestrzeni i stopień swobody mechanizmu. Omów różnicę między ciałem sztywnym i punktem masy przy pojęciu stopnia swobody.
+3. Podaj stopień swobody mechanizmu złożonego z trzech, przegubowo połączonych prętów na płaszczyźnie (wykonaj szkic!).
+4. Narysuj schemat kinematyczny robota typu SCARA z czwartą obrotową osią niewspółbieżną i piątą osią obro- tową współbieżną.
+5. Opisz znane ci zastosowanie robota przemysłowego.
+6. Jak dzieli się roboty ze względu na rodzaj i sposób realizacji ich ruchów?
+7. Naszkicuj typową przestrzeń roboczą robota o kinematyce RTT.
+8. Dlaczego większość współczesnych robotów przemysłowych ma budowę kinematyczną typu RRR?
+9. W jakim celu zwiększa się liczbę osi robota?
