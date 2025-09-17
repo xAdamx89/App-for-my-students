@@ -1,0 +1,5 @@
+1. Czym charakteryzuje się zrobotyzowany proces spawania?
+2. Czym charakteryzuje się zrobotyzowany proces zgrzewania?
+3. Czym charakteryzuje się zrobotyzowany proces Napawania?
+4. Czym charakteryzuje się zrobotyzowany proces paletyzacji/depaletyzacji?
+5. Czym charakteryzuje się zrobotyzowany proces obsługi maszyn? - Obrabiarka, Maszyna CNC, Prasa krawiędziowa, Wtryskarka

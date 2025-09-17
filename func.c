@@ -21,6 +21,8 @@ void greetingScreean()
     printf("5 - Maszyny manipulacyjne - 4 pytania\n");
     printf("6 - Bezpieczenstwo pracy z manipulatorami - 4 pytania\n");
     printf("7 - Projektowanie i realizacja elektrycznych układów sterowania w robotyce - 4 pytania\n");
+    printf("8 - Technika regulacji - 4 pytania\n");
+    printf("9 - Charakterystyka zrobotyzowanych procesów produkcyjnych - 4 pytania\n");
 }
 
 void exitApp()
@@ -81,6 +83,12 @@ void choose(int a)
             char *fptr = file;
             openAndReadFile(fptr, 4, 11);
         }break;
+        case 9:
+        {
+            char file[] = "testy/Zrobotyzowane procesy technologiczne.txt\0";
+            char *fptr = file;
+            openAndReadFile(fptr, 2, 5);
+        }break;
     }
 }
 void openAndReadFile(char *tmpfptr, int ilePytan, int iloscPytanZPodrecznika)
@@ -114,20 +122,40 @@ void openAndReadFile(char *tmpfptr, int ilePytan, int iloscPytanZPodrecznika)
     //fgets(line, sizeof(line), fptr);
     //printf("%s\n", line);
 
-    int questionsNumber[4];
+    int questionsNumber[ilePytan];
+    for(int j = 0; j < ilePytan; j++) questionsNumber[j] = 0;
 
     srand(time(NULL));
 
-    questionsNumber[0] = rand() % iloscPytanZPodrecznika + 1;
+    for(int j = 0; j < ilePytan ; j++)
+    {
+        questionsNumber[j] = rand() % iloscPytanZPodrecznika + 1;
 
-    do questionsNumber[1] = rand() % iloscPytanZPodrecznika + 1;
-    while (questionsNumber[1] == questionsNumber[0]);
+        for(int n = 0; n < ilePytan; n ++)
+        {
+            losowanie:
+            if(n == j) continue;
+            if(questionsNumber[j] == questionsNumber[n])
+            {
+                printf("Wykryto powtórzzenie w tablicy - losuje jeszcze raz...\n");
+                goto losowanie;
+            }
+        }
+    }
 
-    do questionsNumber[2] = rand() % iloscPytanZPodrecznika + 1;
-    while (questionsNumber[2] == questionsNumber[0] || questionsNumber[2] == questionsNumber[1]);
 
-    do questionsNumber[3] = rand() % iloscPytanZPodrecznika + 1;
-    while (questionsNumber[3] == questionsNumber[0] || questionsNumber[3] == questionsNumber[1] || questionsNumber[3] == questionsNumber[2]);
+    for(int j = 0; j < ilePytan; j++) printf("%d ", questionsNumber[j]);
+
+    // questionsNumber[0] = rand() % iloscPytanZPodrecznika + 1;
+
+    // do questionsNumber[1] = rand() % iloscPytanZPodrecznika + 1;
+    // while (questionsNumber[1] == questionsNumber[0]);
+
+    // do questionsNumber[2] = rand() % iloscPytanZPodrecznika + 1;
+    // while (questionsNumber[2] == questionsNumber[0] || questionsNumber[2] == questionsNumber[1]);
+
+    // do questionsNumber[3] = rand() % iloscPytanZPodrecznika + 1;
+    // while (questionsNumber[3] == questionsNumber[0] || questionsNumber[3] == questionsNumber[1] || questionsNumber[3] == questionsNumber[2]);
 
     //Debug losowanych numerów pytań
     //for(int i = 0; i < 4; i++) printf("%d ", questionsNumber[i]);
@@ -150,7 +178,7 @@ void openAndReadFile(char *tmpfptr, int ilePytan, int iloscPytanZPodrecznika)
 
         if((nrPyt == questionsNumber[0] || nrPyt == questionsNumber[1] || nrPyt == questionsNumber[2] || nrPyt == questionsNumber[3])) 
         {
-            printf("%s", line);
+            //printf("%s", line);
         }   
     }
 

@@ -1,6 +1,8 @@
 main.c: func.c
-	echo "Znaleziono main.c"
 	gcc -Wall main.c func.c -o App_for_tests
+	echo "Skompilowano plik"
+func.c:
+	echo "Sprawdzam main.c..."
 clear:
 	rm App_for_tests
 
