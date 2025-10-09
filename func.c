@@ -21,6 +21,8 @@ void greetingScreean()
     printf("5 - Maszyny manipulacyjne - 4 pytania\n");
     printf("6 - Bezpieczenstwo pracy z manipulatorami - 4 pytania\n");
     printf("7 - Projektowanie i realizacja elektrycznych układów sterowania w robotyce - 4 pytania\n");
+    printf("------------------ 1g i 2g ------------------\n");
+    printf("9 - kartkówka nr 1\n");
 }
 
 void exitApp()
@@ -80,6 +82,12 @@ void choose(int a)
             char file[] = "testy/Technika regulacji.txt\0";
             char *fptr = file;
             openAndReadFile(fptr, 4, 11);
+        }break;
+        case 9:
+        {
+            char file[] = "testy/kart1-1g-2g.txt\0";
+            char *fptr = file;
+            openAndReadFile(fptr, 4, 4);
         }break;
     }
 }

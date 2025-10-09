@@ -1,0 +1,4 @@
+1. Wymień 4 zagrożenia i zalety z wdrażania procesów zrobotyzowanych
+2. Opisz historyczne zastosowanie robotów w dziedzinach: Wojskowości, medycyny, eksploracji kosmicznej/podwodnej i w przemyśle
+3. Wyjaśnij różnice między pracą robota a człowieka w przemyśle
+4. Napisz 3 przykłady jak roboty zapewniają bezpieczeństwo w pracy przemysłowej
